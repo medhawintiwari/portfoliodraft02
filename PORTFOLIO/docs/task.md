@@ -1,0 +1,12 @@
+- [x] Initialize Next.js project
+- [x] Install GSAP, Lenis, Framer Motion
+- [x] Configure Tailwind CSS v4 design tokens
+- [x] Create layout components (Header, Footer, Section wrapper)
+- [x] Create data files (projects, personal, navigation)
+- [x] Build Homepage Hero section
+- [x] Build About section
+- [x] Build Work section (Scroll Theater)
+- [x] Build Contact section
+- [x] Build Project Detail page layout
+- [x] Add smooth scroll & GSAP integrations
+- [x] Final responsive pass & testing
